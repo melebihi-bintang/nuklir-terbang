@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://melebihi-bintang.github.io/nuklir-terbang/sitemap.xml
